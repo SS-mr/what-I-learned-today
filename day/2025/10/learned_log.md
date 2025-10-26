@@ -79,3 +79,11 @@
 - 構造体
   > typedef
 - 配列
+- 関数
+- ポインタ
+  > void*型  
+  > *演算子  
+  > malloc  
+  > free  
+  > memcpy  
+  > memcmp  
