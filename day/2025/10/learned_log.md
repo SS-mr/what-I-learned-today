@@ -86,4 +86,8 @@
   > malloc  
   > free  
   > memcpy  
-  > memcmp  
+  > memcmp
+```
+ポインタ楽しい
+超強力で危険な操作
+```
