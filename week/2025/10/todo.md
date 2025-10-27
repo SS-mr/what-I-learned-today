@@ -6,7 +6,8 @@
 - [x] スッキリC言語
   - [x] 11章
   - [ ] ~~12章~~
-- [ ] Wio Terminal Lチカ
+- [x] Wio Terminal Lチカ
+
 
 
 
